@@ -16,7 +16,7 @@ beta = 2
 
 print('START OF PROGRAM')
 
-inputFile = open('rectangles4.txt', 'r')
+inputFile = open('rectangles.txt', 'r')
 
 ( x, y, r ) = mainLib.parseInputFileToMatrix( inputFile )
 
